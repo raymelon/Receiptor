@@ -12,6 +12,10 @@ import {
   View
 } from 'react-native';
 
+import {
+  StackNavigator
+} from 'react-navigation';
+
 import { RNCamera } from 'react-native-camera';
 
 export default class App extends Component {
