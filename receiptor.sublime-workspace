@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ren",
+				"renderCamera"
+			],
+			[
+				"tg",
+				"tg_vocab"
+			],
+			[
+				"b",
+				"bleu_transition"
+			],
+			[
+				"bk",
+				"bk_vocab"
+			],
+			[
+				"inpu",
+				"input_file"
+			],
+			[
+				"gen",
+				"gen_sentence_from_monograms"
+			],
+			[
+				"load",
+				"load_monograms"
+			],
+			[
+				"prepar",
+				"prepare_input_monogram"
+			],
+			[
+				"in",
+				"input_"
+			],
+			[
+				"tem",
+				"temp_file"
+			],
+			[
+				"g",
+				"gr_tags"
+			],
+			[
+				"cl",
+				"cl_tokens"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"das",
+				"dash_pos_orig"
+			],
+			[
+				"da",
+				"dash_pos_trans"
+			],
+			[
+				"ds",
+				"dash_pos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 1657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "android/app/src/main/AndroidManifest.xml",
+			"settings":
+			{
+				"buffer_size": 1564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "android/build.gradle",
+			"settings":
+			{
+				"buffer_size": 736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 555,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"mater",
+				"Material Theme: Info"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 531.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rayman/Documents/Sides/Receiptor",
+		"/home/rayman/Documents/Sides/Receiptor/android",
+		"/home/rayman/Documents/Sides/Receiptor/android/app",
+		"/home/rayman/Documents/Sides/Receiptor/android/app/src",
+		"/home/rayman/Documents/Sides/Receiptor/android/app/src/main"
+	],
+	"file_history":
+	[
+		"/home/rayman/Documents/Sides/Receiptor/android/app/build.gradle",
+		"/home/rayman/Documents/Sides/Receiptor/bashrc",
+		"/home/rayman/Documents/Sides/Receiptor/.bashrc",
+		"/home/rayman/Documents/Sides/Receiptor/node_modules/react-native-camera/android/build.gradle",
+		"/home/rayman/Documents/Sides/Receiptor/index.ios.js",
+		"/home/rayman/Documents/Sides/Receiptor/index.js",
+		"/home/rayman/Documents/Sides/Receiptor/index.android.js",
+		"/home/rayman/Documents/Sides/Receiptor/android/app/src/main/assets/index.android.bundle",
+		"/home/rayman/Documents/Sides/Receiptor/android/app/build/intermediates/assets/debug/index.android.bundle",
+		"/home/rayman/.AndroidStudio3.0/system/log/idea.log",
+		"/home/rayman/.config/autostart/wallpapeer.desktop",
+		"/etc/crontab",
+		"/etc/rc.d/rc.local",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/TAGALOG Nagsimula ang Paghihirap.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/TAGALOG Mga Higante sa Lupa.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/TAGALOG Ang Diyos nagsimula na lumikha.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/An Diyos Nagpuon na Maglalang.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/test_data/Stories/An Inot na Lalaki Asin Babayi.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/tag_vocab.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bikol_vocab.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/vocab.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/vocab.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram.tg",
+		"/home/rayman/Documents/Orangefix/Sinugbuanong/app/src/main/java/net/orangefix/sinugbuanong/LettersPresentation.java",
+		"/home/rayman/Documents/Orangefix/Sinugbuanong/build.gradle",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/every_module.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/Test-Sentences.txt",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/test.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram_te.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/train.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/train.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/monogram_te.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/predictor2.py",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/.gitignore",
+		"/home/rayman/Documents/Peyups/8th/Program.cs",
+		"/home/rayman/Documents/Peyups/8th/bigram3k.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/predictor2.py.",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/vocab_old.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/monogram.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/monogram_te.bk",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/new_model/nlp/monogram.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/temp.tg",
+		"/home/rayman/Documents/Peyups/8th/bigram3k.tg",
+		"/home/rayman/Documents/Peyups/8th/vocab3k.bk",
+		"/home/rayman/Documents/Peyups/8th/vocab3k.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/tokenizer/tokenizer.py",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/spellchecker/expander.py",
+		"/home/rayman/Documents/Peyups/8th/snippet-Copy.py",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/bigram.tg",
+		"/home/rayman/Documents/Peyups/8th/tagbic-bictag/backend/tagalog/transition/test.tg",
+		"/home/rayman/Documents/Peyups/8th/raw.bk.txt",
+		"/home/rayman/Documents/Sides/configs.me/S510-TUX/scripts/s510-misc",
+		"/home/rayman/Documents/Sides/configs.me/S510-TUX/scripts/s510-setups",
+		"/home/rayman/s510-setups"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "android/app/src/main/AndroidManifest.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "android/build.gradle",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Groovy (Gradle).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "receiptor.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
