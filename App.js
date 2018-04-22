@@ -9,55 +9,78 @@ import {
   Platform,
   StyleSheet,
   Text,
-  View
+  View,
+  Button
 } from 'react-native';
 
-import { RNCamera } from 'react-native-camera';
+import {
+  StackNavigator
+} from 'react-navigation';
 
-export default class App extends Component {
+// const instructions = Platform.select({
+//   ios: 'Press Cmd+R to reload,\n' +
+//     'Cmd+D or shake for dev menu',
+//   android: 'Double tap R on your keyboard to reload,\n' +
+//     'Shake or press menu button for dev menu',
+// });
 
-    render() {
-      return (
-        <RNCamera
-            ref={ref => {
-              this.camera = ref;
-            }}
-            style={{
-              flex: 1,
-            }}
-            permissionDialogTitle={'Permission to use camera'}
-            permissionDialogMessage={'We need your permission to use your camera phone'}
-          ></RNCamera>
-      );
-    }
-}
-
-/*const instructions = Platform.select({
-  ios: 'Press Cmd+R to reload,\n' +
-    'Cmd+D or shake for dev menu',
-  android: 'Double tap R on your keyboard to reload,\n' +
-    'Shake or press menu button for dev menu',
-});
-
-type Props = {};
-export default class App extends Component<Props> {
+class HomeScreen extends Component {
   render() {
+    const { navigate } = this.props.navigation;
     return (
-      <View style={styles.container}>
+      <View>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          {'Home!'}
         </Text>
-        <Text style={styles.instructions}>
-          To get started, edit App.js
-        </Text>
-        <Text style={styles.instructions}>
-          {instructions}
-        </Text>
+        <Button
+            title='Goto Another'
+            onPress={() =>
+              navigate('Another')
+            }
+          />
       </View>
     );
   }
 }
-*/
+
+class AnotherScreen extends Component {
+  render() {
+   const { navigate } = this.props.navigation;
+   return (
+      <View>
+        <Text style={styles.welcome}>
+          {'Another!'}
+        </Text>
+        <Button
+            title='Goto Home'
+            onPress={() =>
+              navigate('Home')
+            }
+          />
+      </View>
+    );
+  }
+}
+
+// type Props = {};
+// export default class App extends Component<Props> {
+//   render() {
+//     return (
+//       <View style={styles.container}>
+//         <Text style={styles.welcome}>
+//           Welcome to React Native!
+//         </Text>
+//         <Text style={styles.instructions}>
+//           To get started, edit App.js
+//         </Text>
+//         <Text style={styles.instructions}>
+//           {instructions}
+//         </Text>
+//       </View>
+//     );
+//   }
+// }
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -75,4 +98,9 @@ const styles = StyleSheet.create({
     color: '#333333',
     marginBottom: 5,
   },
+});
+
+export default AppNavigator = StackNavigator({
+  Home: { screen: HomeScreen },
+  Another: { screen: AnotherScreen }
 });
